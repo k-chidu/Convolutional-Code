@@ -1,0 +1,6 @@
+1. Enter the binary value of alphabet in M0-M3
+2. ensure EN=0 and press clock to load into register
+3. Make EN1
+3. Press clock 12 times to generate the encoded code.
+4. to enter next one. turn off En=0, change M0-M3 bits
+and then En=1, then again press clk 12 times
